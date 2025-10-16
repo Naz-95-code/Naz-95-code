@@ -2,7 +2,7 @@
 
 🎓 M.Sc. Bioinformatics Student at Northeastern University, Toronto  
 ☁️ Passionate about cloud-based bioinformatics, genomics, and data-driven biology.  
-💻 I focus on computational workflows and visualization rather than wet lab work — transforming complex biological data into clear, meaningful insights.
+💻 I focus on computational workflows and visualization rather than wet lab work - transforming complex biological data into clear, meaningful insights.
 
 ---
 
